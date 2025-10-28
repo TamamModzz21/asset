@@ -1,7 +1,7 @@
 <!-- Cyber Header -->
 <div align="center" style="background:#000; padding:20px; border:2px solid #00ffff; border-radius:12px;">
 
-<h1 style="color:#00ffff;">⚡ Yo! I'm <span style="color:white;">TamamModzz21</span> ⚡</h1>
+<h1 style="color:#00ffff;">⚡ I'm <span style="color:white;">Muhama.D.Tamam</span> ⚡</h1>
 
 <img src="https://github.com/TamamModzz21/asset/blob/main/images.jpeg?raw=true" width="150" style="border-radius:50%; border:2px solid #00ffff;">
 
