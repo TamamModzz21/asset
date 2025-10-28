@@ -5,7 +5,7 @@
 
 <img src="https://github.com/TamamModzz21/asset/blob/main/images.jpeg?raw=true" width="150" style="border-radius:50%; border:2px solid #00ffff;">
 
-<p style="color:#00ffff;">Web Dev Student | Code Learner | Cyber Vibes</p>
+<p style="color:#00ffff;">Web Dev Student | Code Learner | Chill vibes</p>
 
 </div>
 
@@ -27,9 +27,9 @@
 ---
 
 ## 👤 About This Human
-- Selalu ngulik web biar makin kece  
-- Suka bikin tampilan interaktif yang bikin orang *“WOW ini buatan siapa?”*  
-- Gak jago-jago amat tapi **ngoding tiap hari** biar naik level 😉
+- Selalu always loh ya  
+- bakekok😹  
+- Gak jago-jago amat tapi **ngoding tiap hari** biar naik level 😜
 
 ---
 
