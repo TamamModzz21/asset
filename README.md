@@ -1,28 +1,43 @@
-# Hi there, I'm TamamModzz21! 👋
+<!-- Cyber Header -->
+<div align="center" style="background:#000; padding:20px; border:2px solid #00ffff; border-radius:12px;">
 
-![Profile Avatar](https://github.com/TamamModzz21/asset/blob/main/images.jpeg?raw=true)
+<h1 style="color:#00ffff;">⚡ Yo! I'm <span style="color:white;">TamamModzz21</span> ⚡</h1>
 
-I'm a passionate **student** with a strong interest in web development. I love learning new things and creating beautiful, functional websites from scratch.
+<img src="https://github.com/TamamModzz21/asset/blob/main/images.jpeg?raw=true" width="150" style="border-radius:50%; border:2px solid #00ffff;">
 
-## 🚀 Skills
-- **HTML**
-- **CSS**
-- **JavaScript**
+<p style="color:#00ffff;">Web Dev Student | Code Learner | Cyber Vibes</p>
 
-## 🌟 Featured Project
-[![My Portfolio Website](https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://tamam-portofolio.vercel.app/)
-
-Take a look at my portfolio website, where I showcase my latest projects and experiments in web development!
-
-## 📚 About Me
-- 🌱 I enjoy learning how to build websites and always strive to improve my skills.
-- 💡 My main focus is on creating interactive and visually appealing portfolio websites.
-- 🤝 I love connecting with other learners and developers!
-
-## 📲 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%40mam48._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mam48._)
+</div>
 
 ---
 
-Thanks for visiting my profile! 🚀  
-Let’s learn and build amazing things together!
+## 🧠 Skill Power-Up
+<div style="color:#00ffff;">
+✔ HTML  
+✔ CSS  
+✔ JavaScript  
+</div>
+
+---
+
+## 🔮 Project Portal
+➡️ **Portfolio Website:**  
+[![Visit My Portfolio](https://img.shields.io/badge/PORTFOLIO-ENTER%20THE%20GRID-00ffff?style=for-the-badge&logo=vercel&logoColor=black)](https://tamam-portofolio.vercel.app/)
+
+---
+
+## 👤 About This Human
+- Selalu ngulik web biar makin kece  
+- Suka bikin tampilan interaktif yang bikin orang *“WOW ini buatan siapa?”*  
+- Gak jago-jago amat tapi **ngoding tiap hari** biar naik level 😉
+
+---
+
+## 📡 Contact & Social Link
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%40mam48._-00ffff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mam48._)
+
+---
+
+<div align="center" style="color:#00ffff;">
+✨ Keep Coding | Keep Leveling Up ✨  
+</div>
